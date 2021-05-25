@@ -1,0 +1,15 @@
+{
+  "dalostoaws": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-completeiosawsdeveloper-dalostoaws-153143-authRole",
+      "UnauthRoleArn": "arn:aws:iam::678765723924:role/amplify-completeiosawsdeveloper-dalostoaws-153143-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::678765723924:role/amplify-completeiosawsdeveloper-dalostoaws-153143-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-completeiosawsdeveloper-dalostoaws-153143-deployment",
+      "UnauthRoleName": "amplify-completeiosawsdeveloper-dalostoaws-153143-unauthRole",
+      "StackName": "amplify-completeiosawsdeveloper-dalostoaws-153143",
+      "StackId": "arn:aws:cloudformation:us-east-1:678765723924:stack/amplify-completeiosawsdeveloper-dalostoaws-153143/767efb00-bd87-11eb-ba55-0ef585e93a5f",
+      "AmplifyAppId": "de1bczyvgjcta"
+    }
+  }
+}
