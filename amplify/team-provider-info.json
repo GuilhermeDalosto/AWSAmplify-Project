@@ -10,6 +10,11 @@
       "StackName": "amplify-completeiosawsdeveloper-dalostoaws-153143",
       "StackId": "arn:aws:cloudformation:us-east-1:678765723924:stack/amplify-completeiosawsdeveloper-dalostoaws-153143/767efb00-bd87-11eb-ba55-0ef585e93a5f",
       "AmplifyAppId": "de1bczyvgjcta"
+    },
+    "categories": {
+      "auth": {
+        "completeiosawsdeveloper8fee4fe1": {}
+      }
     }
   }
 }

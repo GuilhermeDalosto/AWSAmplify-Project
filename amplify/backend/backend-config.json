@@ -16,5 +16,19 @@
         }
       }
     }
+  },
+  "storage": {
+    "dynamod5502770": {
+      "service": "DynamoDB",
+      "providerPlugin": "awscloudformation"
+    }
+  },
+  "auth": {
+    "completeiosawsdeveloper8fee4fe1": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
   }
 }
