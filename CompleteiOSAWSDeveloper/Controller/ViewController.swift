@@ -10,7 +10,7 @@ import Amplify
 
 class ViewController: UIViewController {
 
-    typealias database = AmplifyInteractor
+    typealias database = AmplifyDataStore
     
     override func viewDidLoad() {
         super.viewDidLoad()

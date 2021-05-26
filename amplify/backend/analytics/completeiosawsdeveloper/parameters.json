@@ -1,0 +1,21 @@
+{
+    "appName": "completeiosawsdeveloper",
+    "roleName": "pinpointLambdaRolee752a187",
+    "cloudformationPolicyName": "cloudformationPolicye752a187",
+    "cloudWatchPolicyName": "cloudWatchPolicye752a187",
+    "pinpointPolicyName": "pinpointPolicye752a187",
+    "authPolicyName": "pinpoint_amplify_e752a187",
+    "unauthPolicyName": "pinpoint_amplify_e752a187",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

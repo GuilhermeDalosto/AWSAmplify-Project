@@ -1,6 +1,6 @@
 {
     "identityPoolName": "completeiosawsdeveloper8fee4fe1_identitypool_8fee4fe1",
-    "allowUnauthenticatedIdentities": false,
+    "allowUnauthenticatedIdentities": true,
     "resourceNameTruncated": "comple8fee4fe1",
     "userPoolName": "completeiosawsdeveloper8fee4fe1_userpool_8fee4fe1",
     "autoVerifiedAttributes": [

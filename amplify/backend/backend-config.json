@@ -30,5 +30,11 @@
       "dependsOn": [],
       "customAuth": false
     }
+  },
+  "analytics": {
+    "completeiosawsdeveloper": {
+      "service": "Pinpoint",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }
